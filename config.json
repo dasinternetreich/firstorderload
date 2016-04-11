@@ -23,8 +23,8 @@
     }
   },
   "rules": [
-    {"line" : "HERE ARE ALL THE RULES YOU WANT TO SHOW TO YOUR USERS."},
-    {"line" : "THERE IS A LIMIT OF 8 LINES."},
-    {"line" : "DON'T USE THE <b>&lt;br&gt;</b> TAG TO JUMP LINES. IT WILL BE DONE AUTOMATICALLY!!!"}
+    {"line" : "Do not RDM."},
+    {"line" : "New Life Rule: Everytime you die, you forget everything from your past life."},
+    {"line" : "Do not FailRP or Minge. Check out all of the rules in the F1 motd."}
   ]
 }
