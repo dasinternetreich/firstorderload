@@ -1,0 +1,30 @@
+{
+  "server": {
+    "name": "-DIR- |First Order RP",
+    "banner": "img/banner.png"
+  },
+  "plugins" : {
+    "slideshow" : {
+      "active" : false,
+      "speed" : 1000,
+      "time" : 5000,
+      "random" : false,
+      "image" : [
+        "http://i.imgur.com/5X8Xkv8.jpg",
+        "http://i.imgur.com/t8KsJWT.jpg",
+        "http://www.dargadgetz.com/wp-content/uploads/2015/10/1445587412_full.jpeg"
+      ]
+    },
+    "music" : {
+      "active" : false,
+      "file" : "example.wav",
+      "volume" : 0.1,
+      "title" : "Example Song"
+    }
+  },
+  "rules": [
+    {"line" : "HERE ARE ALL THE RULES YOU WANT TO SHOW TO YOUR USERS."},
+    {"line" : "THERE IS A LIMIT OF 8 LINES."},
+    {"line" : "DON'T USE THE <b>&lt;br&gt;</b> TAG TO JUMP LINES. IT WILL BE DONE AUTOMATICALLY!!!"}
+  ]
+}
