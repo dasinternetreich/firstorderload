@@ -23,8 +23,8 @@
     }
   },
   "rules": [
-    {"line" : "Do not RDM."},
+    {"line" : "Do not RDM (Random Deathmatch) - Killing someone without a valid roleplay reason."},
     {"line" : "New Life Rule: Everytime you die, you forget everything from your past life."},
-    {"line" : "Do not FailRP or Minge. Check out all of the rules in the F1 motd."}
+    {"line" : "Do not FailRP or Minge. Check out all of the rules in the F1 motd to avoid any problems."}
   ]
 }
