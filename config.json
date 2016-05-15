@@ -1,6 +1,6 @@
 {
   "server": {
-    "name": "-DIR- | NS | Zombie Serious RP",
+    "name": "-DIR- | NS | 1942 Caucasus RP",
     "banner": "img/banner.png"
   },
   "plugins" : {
@@ -10,10 +10,10 @@
       "time" : 5000,
       "random" : true,
       "image" : [
-        "http://1920x1080hdwallpapers.com/image/201508/games/1786/dayz-afterlight-zombie-hammer-art-sunset-shooting.jpg",
-        "http://www.hdwallpaper.nu/wp-content/uploads/2015/07/zombie-background.jpg",
-        "http://www.siwallpaperhd.com/wp-content/uploads/2015/07/zombie_wallpaper.jpg",
-        "http://vignette3.wikia.nocookie.net/homefrontfanfiction/images/5/54/Post-apocalyptic-city-fantasy-hd-wallpaper-1920x1080-1475.jpg/revision/latest?cb=20140928040719"
+        "http://pasteboard.co/VCx1F3E.jpg",
+        "http://pasteboard.co/VCBaTWC.jpg",
+        "http://pasteboard.co/VCD2RZz.jpg",
+        "http://pasteboard.co/VCFgeMR.jpg"
       ]
     },
     "music" : {
