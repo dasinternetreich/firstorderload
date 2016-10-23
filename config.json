@@ -1,6 +1,6 @@
 {
   "server": {
-    "name": "-DIR- | NS | 1942 Caucasus RP",
+    "name": "DIR - Zombie Survival",
     "banner": "img/banner.png"
   },
   "plugins" : {
@@ -10,10 +10,7 @@
       "time" : 5000,
       "random" : true,
       "image" : [
-        "https://cdn.pbrd.co/images/VCX8cQj.jpg",
-        "https://cdn.pbrd.co/images/VCUuoR0.jpg",
-        "https://cdn.pbrd.co/images/VCFgeMR.jpg",
-        "https://cdn.pbrd.co/images/VCx1F3E.jpg"
+        "http://wallpapercave.com/wp/GmoyiSZ.jpg"
       ]
     },
     "music" : {
@@ -24,8 +21,8 @@
     }
   },
   "rules": [
-    {"line" : "Do not RDM (Random Deathmatch) - Killing someone without a valid roleplay reason."},
-    {"line" : "New Life Rule: Everytime you die, you forget everything from your past life."},
-    {"line" : "Do not FailRP or Minge. Check out all of the rules in the F1 motd to avoid any problems."}
+    {"line" : "Do not Metagame or Ghost for players."},
+    {"line" : "No exploiting maps for any reason."},
+    {"line" : "No spamming in mic and in chat."}
   ]
 }
