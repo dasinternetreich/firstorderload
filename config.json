@@ -1,7 +1,7 @@
 {
   "server": {
-    "name": "DIR - Zombie Survival",
-    "banner": "img/banner.png"
+    "name": "DIR - Soviet",
+    "banner": "http://vignette3.wikia.nocookie.net/uncyclopedia/images/9/9f/Stalin_in_colour.gif"
   },
   "plugins" : {
     "slideshow" : {
@@ -10,7 +10,7 @@
       "time" : 5000,
       "random" : true,
       "image" : [
-        "http://wallpapercave.com/wp/GmoyiSZ.jpg"
+        "http://www.mruniversity.com/sites/default/files/soviet_union%20%281%29.jpg"
       ]
     },
     "music" : {
@@ -21,8 +21,8 @@
     }
   },
   "rules": [
-    {"line" : "Do not Metagame or Ghost for players."},
-    {"line" : "No exploiting maps for any reason."},
-    {"line" : "No spamming in mic and in chat."}
+    {"line" : "CHEEKI BREEKI."},
+    {"line" : "PRESS F1 IN-GAME."},
+    {"line" : "CYKA BLYAT."}
   ]
 }
